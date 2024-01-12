@@ -1,5 +1,5 @@
 # HALLO~
-### GITHUB PRACTICEDETSU
+### GITHUB PRACTICE
 ```c++
 cout<<"github practice";
 ```
